@@ -1,5 +1,9 @@
 # arRPC Changelog
 
+## v3.6.0 [28-09-2024]
+- Updated Discord's game database to use the latest version.
+- Updated dependencies to use the latest versions.
+
 ## v3.5.0 [30-08-2024]
 - The bridge port is now configurable via the `ARRPC_BRIDGE_PORT` environment variable. ([#96](https://github.com/OpenAsar/arrpc/pull/96))
 - Fixed some games by ignoring another 64 bit suffix. ([#107](https://github.com/OpenAsar/arrpc/pull/107))
